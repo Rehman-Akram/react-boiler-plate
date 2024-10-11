@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "author": "Rehman-Akram",
   "scripts": {
     "typecheck": "tsc --noEmit",
     "dev": "vite --port=3001",
